@@ -1,0 +1,52 @@
+.main {
+    height: auto;
+    margin: 100px auto;
+    border-radius: 4px;
+    width: 300px;
+    background-color: rgb(231, 213, 213);
+}
+
+.form_group  {
+    margin-left: 5px;
+    font-size: 1.2rem;
+}
+
+.form_group input {
+    width: 93%;
+    height: 20px;
+}
+
+.invalid {
+    color: red;
+}
+
+.heading {
+    padding-top: 10px;
+}
+
+.heading,.desc {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 1.4rem;
+}
+
+.desc {
+    color:  red;
+}
+
+.form_label, .form_mesage {
+    padding:  2px;
+    display: block;
+}
+
+.form_mesage {
+    padding:  2px;
+}
+
+.form_submit {
+    padding: 4px;
+    margin: 10px;
+}
+
+
+
